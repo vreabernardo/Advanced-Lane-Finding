@@ -1,0 +1,7 @@
+Color Spaces:
+
+HSL: represents colour as three channels — hue, saturation, and lightness.
+LAB: represents colour as three channels — lightness, component a for green-red, and component b for blue-yellow.
+LUV: a transformation of the XYZ colorspace that attempts perceptual uniformity.
+
+
