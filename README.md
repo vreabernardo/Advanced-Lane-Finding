@@ -11,8 +11,8 @@ https://github.com/vreabernardo/Advanced-Lane-Finding/assets/45080358/b8ffcb73-5
 
 
 
-## Project Overview
-The Advanced Lane Finding project focuses on detecting and tracking lane lines in images or video frames using computer vision techniques. The primary goal is to identify the lane lines on the road and create a visual representation of the lane area.
+## Project Goal
+Identify the lane lines on the road and create a visual representation of the lane area.
 
 ## Steps Involved
 - Thresholding: The input frame undergoes thresholding to create a binary image. This technique converts the frame into a black and white image, enhancing the lane markings' visibility.
